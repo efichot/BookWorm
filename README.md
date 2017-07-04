@@ -1,4 +1,6 @@
-# User Authentication With Express and Mongo
-Project code to support the [Treehouse](https://teamtreehouse.com) course [User Authentication With Express and Mongo](https://teamtreehouse.com/library/user-authentication-with-express-and-mongo)
+# BookWorm
+User Authentication With Express and Mongo
+The system let's the user sign-up, log-in, and log out, limited access to password-protected ressources.
+--> Mongoose
 
 #Screenshots
