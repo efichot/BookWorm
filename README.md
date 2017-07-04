@@ -1,5 +1,4 @@
-## BookWorm
-Training for implement a custom user authentication system with express and mongo.
-The system lets the users sign up, login in, and log out.
+# User Authentication With Express and Mongo
+Project code to support the [Treehouse](https://teamtreehouse.com) course [User Authentication With Express and Mongo](https://teamtreehouse.com/library/user-authentication-with-express-and-mongo)
 
 #Screenshots
